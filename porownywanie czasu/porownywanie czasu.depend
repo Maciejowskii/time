@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701337393 source:c:\users\egzamin\documents\3tp\porownywanie czasu\main.cpp
+	<iostream>
+	<algorithm>
+	<chrono>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	<windows.h>
+
